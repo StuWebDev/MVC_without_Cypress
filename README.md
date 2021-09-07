@@ -1,6 +1,6 @@
 # ASP.NET MVC Project
 
-Going through the [docs](https://docs.microsoft.com/en-gb/aspnet/core/tutorials/razor-pages/?view=aspnetcore-5.0) to create a razor pages project
+Going through the [docs](https://docs.microsoft.com/en-gb/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio) to create a MVC project
 
 ### Branching Strategy
 I am following [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) Workflow, so using Main for the "production" and Develop for the features of the application.
